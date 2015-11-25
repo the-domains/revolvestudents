@@ -1,6 +1,6 @@
 name: RevolveStudents
 favicon: null
-layout_spectrum: 0.10435461369343102
+layout_spectrum: 0.98897
 typography_spectrum: 0.685980117181316
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#090303'
+    - '#2fe5fa'
+    - '#ffffff'
+    - '#0c393f'
+    - '#808080'
   brandStrength: 0.8462865797337145
-  lightness: 0.08186620380729437
-  saturation: 0.21977685252204537
-  rhythmicContrast: 0.5045329330023378
+  lightness: 0.75
+  saturation: 0.6875
+  rhythmicContrast: 0.75
 purpose: []
